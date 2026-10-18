@@ -1,0 +1,76 @@
+{
+ "fidelity": "verbatim",
+ "quotes": [
+  "Learning to ride takes about 3 days"
+ ],
+ "addition": [],
+ "core_keys": [
+  "extends"
+ ],
+ "dropped": [
+  "p3"
+ ],
+ "paragraphs": {
+  "p1": "A bicycle does not turn you into another person. It extends what you can already do, so you arrive faster.",
+  "p2": "\"Learning to ride takes about 3 days,\" the author writes. After that the extension feels natural.",
+  "p3": "Unrelated footnote about the publisher's address."
+ },
+ "sentences": [
+  {
+   "text": "A bicycle does not turn you into another person.",
+   "ref": "p1"
+  },
+  {
+   "text": "It extends what you can already do, so you arrive faster.",
+   "ref": "p1"
+  },
+  {
+   "text": "After that the extension feels natural.",
+   "ref": "p2"
+  },
+  {
+   "text": "Here is why that matters.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 0 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 1 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 2 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 3 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 4 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 5 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 6 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 7 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 8 is here to pad.",
+   "framing": true
+  },
+  {
+   "text": "Framing sentence number 9 is here to pad.",
+   "framing": true
+  }
+ ]
+}

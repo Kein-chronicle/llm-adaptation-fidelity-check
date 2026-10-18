@@ -1,0 +1,40 @@
+{
+ "fidelity": "verbatim",
+ "quotes": [
+  "Learning to ride takes about 3 days"
+ ],
+ "addition": [],
+ "core_keys": [
+  "extends"
+ ],
+ "dropped": [
+  "p3"
+ ],
+ "paragraphs": {
+  "p1": "A bicycle does not turn you into another person. It extends what you can already do, so you arrive faster.",
+  "p2": "\"Learning to ride takes about 3 days,\" the author writes. After that the extension feels natural.",
+  "p3": "Unrelated footnote about the publisher's address."
+ },
+ "sentences": [
+  {
+   "text": "A bicycle does not turn you into another person.",
+   "ref": "p1"
+  },
+  {
+   "text": "It extends what you can already do, so you arrive faster.",
+   "ref": "p1"
+  },
+  {
+   "text": "After that the extension feels natural.",
+   "ref": "p2"
+  },
+  {
+   "text": "Here is why that matters.",
+   "framing": true
+  },
+  {
+   "text": "Studies show 90 percent of riders improve.",
+   "ref": "p2"
+  }
+ ]
+}
